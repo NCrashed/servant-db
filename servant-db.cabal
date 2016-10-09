@@ -17,6 +17,7 @@ cabal-version:        >=1.10
 library
   exposed-modules:
     Servant.API.DB
+    Servant.API.DB.Argument
     Servant.API.DB.Procedure
   -- other-modules:
   -- other-extensions:
