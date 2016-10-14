@@ -1,10 +1,10 @@
 name:                 servant-db
-version:              0.2.0.0
+version:              0.2.0.1
 synopsis:             Servant types for defining API with relational DBs
 -- description:
 license:              BSD3
 license-file:         LICENSE
-homepage:             
+homepage:
 author:               Anton Gushcha
 maintainer:           ncrashed@gmail.com
 copyright:            2016 (c) Anton Gushcha
